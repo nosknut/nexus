@@ -1,13 +1,13 @@
 {
   "main.css": "/nexus/static/css/main.bd57ac23.chunk.css",
-  "main.js": "/nexus/static/js/main.c4c5e6e9.chunk.js",
-  "main.js.map": "/nexus/static/js/main.c4c5e6e9.chunk.js.map",
+  "main.js": "/nexus/static/js/main.c719ea4e.chunk.js",
+  "main.js.map": "/nexus/static/js/main.c719ea4e.chunk.js.map",
   "runtime~main.js": "/nexus/static/js/runtime~main.096a18f7.js",
   "runtime~main.js.map": "/nexus/static/js/runtime~main.096a18f7.js.map",
-  "static/js/2.9c8abbc8.chunk.js": "/nexus/static/js/2.9c8abbc8.chunk.js",
-  "static/js/2.9c8abbc8.chunk.js.map": "/nexus/static/js/2.9c8abbc8.chunk.js.map",
+  "static/js/2.3aabf241.chunk.js": "/nexus/static/js/2.3aabf241.chunk.js",
+  "static/js/2.3aabf241.chunk.js.map": "/nexus/static/js/2.3aabf241.chunk.js.map",
   "index.html": "/nexus/index.html",
-  "precache-manifest.7fa5d7afce62704c96caf367f062a668.js": "/nexus/precache-manifest.7fa5d7afce62704c96caf367f062a668.js",
+  "precache-manifest.d0cf2934ad82a329115e29ee9e8416c3.js": "/nexus/precache-manifest.d0cf2934ad82a329115e29ee9e8416c3.js",
   "service-worker.js": "/nexus/service-worker.js",
   "static/css/main.bd57ac23.chunk.css.map": "/nexus/static/css/main.bd57ac23.chunk.css.map"
 }
