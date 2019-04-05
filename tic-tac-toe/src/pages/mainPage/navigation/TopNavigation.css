@@ -1,0 +1,38 @@
+.topNavigation {
+    font-size: 20px;
+    border-bottom: 1px solid grey;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.topNavigation ul {
+    padding-left: 0;
+    list-style-type: none;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 3px;
+    display: inline-block;
+}
+
+.topNavigation li{
+    display: inline-block;
+}
+
+.topNavigation button {
+    font-size: 1em;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+@media screen and(max-width: 50px){
+    .topNavigation li{
+        display: block;
+        width: 100%;
+    }
+
+    .topNavigation button{
+        width: 100%;
+    }
+}

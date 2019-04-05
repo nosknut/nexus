@@ -1,0 +1,31 @@
+
+.square:hover {
+    transform: scale(1.15);
+}
+
+.square:not(:empty):hover {
+    background: red;
+}
+
+.square:empty:hover {
+    background: green;
+}
+
+.square {
+    background: rgb(100, 100, 100);
+    color: black;
+    border: 1px solid #999;
+    border-radius: 4px;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1em;
+    height: 1em;
+    width: 1em;
+    margin-right: -1px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0;
+    float: left;
+    display: inline-table;
+    text-align: center;
+}
